@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ikaris_image_editor/static/css/main.d7705cf2.css",
-    "main.js": "/Ikaris_image_editor/static/js/main.3a4b9e35.js",
+    "main.js": "/Ikaris_image_editor/static/js/main.1f3827c2.js",
     "static/js/453.3d374c7b.chunk.js": "/Ikaris_image_editor/static/js/453.3d374c7b.chunk.js",
     "index.html": "/Ikaris_image_editor/index.html",
     "main.d7705cf2.css.map": "/Ikaris_image_editor/static/css/main.d7705cf2.css.map",
-    "main.3a4b9e35.js.map": "/Ikaris_image_editor/static/js/main.3a4b9e35.js.map",
+    "main.1f3827c2.js.map": "/Ikaris_image_editor/static/js/main.1f3827c2.js.map",
     "453.3d374c7b.chunk.js.map": "/Ikaris_image_editor/static/js/453.3d374c7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7705cf2.css",
-    "static/js/main.3a4b9e35.js"
+    "static/js/main.1f3827c2.js"
   ]
 }
