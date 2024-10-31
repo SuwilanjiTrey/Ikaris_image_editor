@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/android-image-editor/static/css/main.dc4cf06f.css",
-    "main.js": "/android-image-editor/static/js/main.1a3adcc5.js",
-    "static/js/453.3d374c7b.chunk.js": "/android-image-editor/static/js/453.3d374c7b.chunk.js",
-    "index.html": "/android-image-editor/index.html",
-    "main.dc4cf06f.css.map": "/android-image-editor/static/css/main.dc4cf06f.css.map",
-    "main.1a3adcc5.js.map": "/android-image-editor/static/js/main.1a3adcc5.js.map",
-    "453.3d374c7b.chunk.js.map": "/android-image-editor/static/js/453.3d374c7b.chunk.js.map"
+    "main.css": "/static/css/main.dc4cf06f.css",
+    "main.js": "/static/js/main.553697bb.js",
+    "static/js/453.3d374c7b.chunk.js": "/static/js/453.3d374c7b.chunk.js",
+    "index.html": "/index.html",
+    "main.dc4cf06f.css.map": "/static/css/main.dc4cf06f.css.map",
+    "main.553697bb.js.map": "/static/js/main.553697bb.js.map",
+    "453.3d374c7b.chunk.js.map": "/static/js/453.3d374c7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4cf06f.css",
-    "static/js/main.1a3adcc5.js"
+    "static/js/main.553697bb.js"
   ]
 }
